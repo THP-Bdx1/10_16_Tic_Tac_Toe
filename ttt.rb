@@ -1,5 +1,3 @@
-require 'pry'
-
 class Board
 
     attr_accessor :leg_values, :board_values   
